@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F9gU78VZKpvZ8meWe3aQ8eCz2hEUdyJmY7Wa/Q9UP54=",
+  "Hash": "wNCPMxDdpm3y0eJZz0k/7iAF2MVnh3kBGuzHVeVMaC0=",
   "Source": "RickAndMortyPWC",
   "BasePath": "_content/RickAndMortyPWC",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RickAndMortyPWC.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\css\\app.2cf79ad6.css",
+      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\css\\chunk-vendors.09f4f3e2.css",
       "SourceId": "RickAndMortyPWC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\",
       "BasePath": "_content/RickAndMortyPWC",
-      "RelativePath": "css/app.2cf79ad6.css",
+      "RelativePath": "css/chunk-vendors.09f4f3e2.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\app.2cf79ad6.css"
+      "OriginalItemSpec": "wwwroot\\css\\chunk-vendors.09f4f3e2.css"
     },
     {
       "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\favicon.ico",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\img\\logo.4d6033c9.svg",
+      "SourceId": "RickAndMortyPWC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\",
+      "BasePath": "_content/RickAndMortyPWC",
+      "RelativePath": "img/logo.4d6033c9.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.4d6033c9.svg"
+    },
+    {
       "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\index.html",
       "SourceId": "RickAndMortyPWC",
       "SourceType": "Discovered",
@@ -102,12 +119,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\js\\app.b0aa10bc.js",
+      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\js\\app.f21fde80.js",
       "SourceId": "RickAndMortyPWC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\",
       "BasePath": "_content/RickAndMortyPWC",
-      "RelativePath": "js/app.b0aa10bc.js",
+      "RelativePath": "js/app.f21fde80.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\app.b0aa10bc.js"
+      "OriginalItemSpec": "wwwroot\\js\\app.f21fde80.js"
     },
     {
-      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\js\\app.b0aa10bc.js.map",
+      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\js\\app.f21fde80.js.map",
       "SourceId": "RickAndMortyPWC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\",
       "BasePath": "_content/RickAndMortyPWC",
-      "RelativePath": "js/app.b0aa10bc.js.map",
+      "RelativePath": "js/app.f21fde80.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\app.b0aa10bc.js.map"
+      "OriginalItemSpec": "wwwroot\\js\\app.f21fde80.js.map"
     },
     {
-      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\js\\chunk-vendors.6c9c39b7.js",
+      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\js\\chunk-vendors.6b033abb.js",
       "SourceId": "RickAndMortyPWC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\",
       "BasePath": "_content/RickAndMortyPWC",
-      "RelativePath": "js/chunk-vendors.6c9c39b7.js",
+      "RelativePath": "js/chunk-vendors.6b033abb.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\chunk-vendors.6c9c39b7.js"
+      "OriginalItemSpec": "wwwroot\\js\\chunk-vendors.6b033abb.js"
     },
     {
-      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\js\\chunk-vendors.6c9c39b7.js.map",
+      "Identity": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\js\\chunk-vendors.6b033abb.js.map",
       "SourceId": "RickAndMortyPWC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Development\\RickAndMortyPWC\\RickAndMortyPWC\\wwwroot\\",
       "BasePath": "_content/RickAndMortyPWC",
-      "RelativePath": "js/chunk-vendors.6c9c39b7.js.map",
+      "RelativePath": "js/chunk-vendors.6b033abb.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,7 +184,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\chunk-vendors.6c9c39b7.js.map"
+      "OriginalItemSpec": "wwwroot\\js\\chunk-vendors.6b033abb.js.map"
     }
   ]
 }

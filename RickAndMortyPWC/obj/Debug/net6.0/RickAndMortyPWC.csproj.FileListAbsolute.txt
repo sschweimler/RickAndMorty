@@ -24,6 +24,6 @@ D:\Development\RickAndMortyPWC\RickAndMortyPWC\obj\Debug\net6.0\refint\RickAndMo
 D:\Development\RickAndMortyPWC\RickAndMortyPWC\obj\Debug\net6.0\RickAndMortyPWC.pdb
 D:\Development\RickAndMortyPWC\RickAndMortyPWC\obj\Debug\net6.0\RickAndMortyPWC.genruntimeconfig.cache
 D:\Development\RickAndMortyPWC\RickAndMortyPWC\obj\Debug\net6.0\ref\RickAndMortyPWC.dll
-D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\vuejs\jsconfig.json
-D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\vuejs\package-lock.json
-D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\vuejs\package.json
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\rick-and-morty-vue\jsconfig.json
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\rick-and-morty-vue\package-lock.json
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\rick-and-morty-vue\package.json
