@@ -27,3 +27,10 @@ D:\Development\RickAndMortyPWC\RickAndMortyPWC\obj\Debug\net6.0\ref\RickAndMorty
 D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\rick-and-morty-vue\jsconfig.json
 D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\rick-and-morty-vue\package-lock.json
 D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\rick-and-morty-vue\package.json
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\Autofac.dll
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\AutoMapper.dll
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\Ensure.That.dll
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\RickAndMorty.Net.Api.dll
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\obj\Debug\net6.0\RickAndMortyPWC.csproj.CopyComplete
+D:\Development\RickAndMortyPWC\RickAndMortyPWC\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll

@@ -6,7 +6,7 @@ module.exports = defineConfig({
   outputDir: '../wwwroot',
   devServer: {
     proxy: {
-        '^/weatherforecast': {
+        '^/rickandmorty': {
             target: 'https://localhost:7010/'
         }
     }

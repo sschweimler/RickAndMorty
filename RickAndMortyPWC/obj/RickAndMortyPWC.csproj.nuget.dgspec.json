@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "RickAndMorty.Net.Api": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

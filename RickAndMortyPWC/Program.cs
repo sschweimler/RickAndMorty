@@ -1,7 +1,15 @@
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using RickAndMorty.Net.Api.DI;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// DI of the RickAndMortyModule (AutoFac)
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+builder.Host.ConfigureContainer<ContainerBuilder>(builder => builder.RegisterModule(new RickAndMortyModule()));
 
 var app = builder.Build();
 
@@ -21,10 +29,5 @@ app.UseRouting();
 
 app.UseAuthorization();
 app.MapControllers();
-
-
-//app.MapControllerRoute(
-//    name: "default",
-//    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

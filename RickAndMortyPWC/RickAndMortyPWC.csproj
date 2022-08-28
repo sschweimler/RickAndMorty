@@ -7,8 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="vuejs\" />
+    <Compile Remove="vuejs\**" />
+    <Content Remove="vuejs\**" />
+    <EmbeddedResource Remove="vuejs\**" />
+    <None Remove="vuejs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="RickAndMorty.Net.Api" Version="0.2.0" />
   </ItemGroup>
 
 </Project>
