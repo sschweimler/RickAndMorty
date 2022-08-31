@@ -1,6 +1,6 @@
 <template>
   <ul class="result-list">
-    <li class="list-item" v-for="result in results" :key="result.id">
+    <li class="list-item" v-for="result in results" :key="result.id" v-on:click="$emit('characterSelect', result)">
         <div class="list-item--image">
             <img :src="`https://rickandmortyapi.com/api/character/avatar/${result.id}.jpeg`" width="50px" height="50px">
         </div>
@@ -15,7 +15,7 @@ export default {
   name: "search-results",
   props: {
     results: Array,
-  },
+  }
 };
 </script>
 <style scoped>
@@ -24,6 +24,9 @@ export default {
     overflow-y: scroll;
     list-style-type: none;
     padding-left: 0;
+    position: absolute;
+    z-index: 2;
+    background-color: white;
 }
 .list-item {
     display: flex;

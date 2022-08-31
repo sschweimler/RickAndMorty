@@ -34,21 +34,17 @@
     </v-app-bar>
 
     <v-main>
-      <v-container>
-         <searchbar />
-      </v-container>
+      <Home />
     </v-main>
   </v-app>
 </template>
 
 <script>
-import Searchbar from "./components/Searchbar";
+import Home from './components/Home.vue';
 
 export default {
   name: "App",
+  components: {Home}
 
-  components: {
-    Searchbar,
-  }
 };
 </script>
